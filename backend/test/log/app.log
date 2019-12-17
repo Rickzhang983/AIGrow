@@ -1,0 +1,4 @@
+2019-10-07 10:56:11,408 - engineio.server - INFO - Server initialized for gevent.
+2019-10-07 10:56:14,055 - matplotlib - DEBUG - CACHEDIR=C:\Users\Rick\.matplotlib
+2019-10-07 10:56:14,066 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\Rick\.matplotlib\fontlist-v300.json
+2019-10-07 10:56:16,324 - matplotlib.pyplot - DEBUG - Loaded backend module://backend_interagg version unknown.
