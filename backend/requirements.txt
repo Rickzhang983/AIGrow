@@ -3,7 +3,7 @@ Flask-Cors==3.0.4
 Flask-Restless==0.17.0
 Flask-SQLAlchemy==2.3.2
 Flask-SocketIO==3.0.1
-Jinja2==2.7.3
+Jinja2==2.11.3
 PyYAML==3.12
 Werkzeug==0.9.6
 fourletterphat==0.1.0
