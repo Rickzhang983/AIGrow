@@ -1,5 +1,5 @@
 Flask==0.10.1
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 Flask-Restless==0.17.0
 Flask-SQLAlchemy==2.3.2
 Flask-SocketIO==3.0.1
