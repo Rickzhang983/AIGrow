@@ -10,7 +10,7 @@ fourletterphat==0.1.0
 html5lib==0.999
 mimerender==0.6.0
 six==1.11.0
-wheel==0.24.0
+wheel==0.38.1
 numpy==1.16.2
 opencv-python == 4.0.0.21
 pyJWT == 1.7.1
